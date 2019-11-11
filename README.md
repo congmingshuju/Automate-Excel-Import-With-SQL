@@ -6,7 +6,7 @@
 ### Automate Excel Import With SQL
 **发布-日期:  2018年2月20日 (评论)**
 
-![Automate Import With SQL](images/iautomate-excel-importing-with-sql.png?raw=true "Automate Import With SQL")
+![Automate Import With SQL](images/automate-excel-importing-with-sql.png?raw=true "Automate Import With SQL")
 
 
 ## Contents
